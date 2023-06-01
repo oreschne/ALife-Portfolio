@@ -45,7 +45,7 @@ _Replace each "POE#" with the actual item you are including_
 
 ### L1: Evolution as an Algorithm
 - [x] POE1
-- [ ] POE2
+- [x] POE2
 - [ ] POE3*
 
 ### L2: Artificial Life as a Field
@@ -56,8 +56,8 @@ _Replace each "POE#" with the actual item you are including_
 
 ### L3: Computational Collaboration
 
-- [ ] POE1
-- [ ] POE2
+- [x] POE1
+- [x] POE2
 - [ ] POE3*
 
 ### L4: Failure
