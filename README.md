@@ -50,7 +50,7 @@ _Replace each "POE#" with the actual item you are including_
 
 ### L2: Artificial Life as a Field
 
-- [ ] POE1
+- [x] POE1
 - [ ] POE2
 - [ ] POE3*
 
@@ -62,7 +62,7 @@ _Replace each "POE#" with the actual item you are including_
 
 ### L4: Failure
 
-- [ ] POE1
+- [x] POE1
 - [ ] POE2
 - [ ] POE3*
 
