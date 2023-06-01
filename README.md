@@ -68,6 +68,6 @@ _Replace each "POE#" with the actual item you are including_
 
 ### L5: Reflection and Metacognition
 
-- [ ] POE1
+- [x] POE1
 - [ ] POE2
 - [ ] POE3*
