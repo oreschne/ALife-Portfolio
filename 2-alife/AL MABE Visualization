@@ -1,0 +1,23 @@
+import matplotlib as plt
+import matplotlib.pyplot as plt 
+import numpy as np
+import pandas as pd
+
+mabe = pd.read_csv('fitness.csv')
+
+mabe["Number of Generations"] = range(len(mabe))
+
+x = mabe['Number of Generations']
+y1 = mabe['Average Fitness']
+y2 = mabe['Maximum Fitness']
+y3 = mabe['Dominant Fitness']
+
+
+plt.scatter(x, y1)
+plt.scatter(x, y2)
+plt.scatter(x, y3)
+
+plt.xlabel("Number of Gens")
+plt.ylabel("Fitness Numbers")
+
+plt.show()
