@@ -1,5 +1,5 @@
 
-Evan Oreschnick CMSC 500 Final Portfolio
+# Evan Oreschnick CMSC 500 Final Portfolio
 
 ## Checklist
 
@@ -22,7 +22,7 @@ _Replace each "POE#" with the actual item you are including_
 
 - [x] POE1
 - [x] POE2
-- [ ] POE3*
+- [x] POE3*
 
 ### L4: Failure
 
