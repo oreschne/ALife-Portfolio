@@ -63,11 +63,11 @@ _Replace each "POE#" with the actual item you are including_
 ### L4: Failure
 
 - [x] POE1
-- [ ] POE2
+- [x] POE2
 - [ ] POE3*
 
 ### L5: Reflection and Metacognition
 
 - [x] POE1
-- [ ] POE2
+- [x] POE2
 - [ ] POE3*
