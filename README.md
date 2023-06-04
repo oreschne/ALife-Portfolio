@@ -15,14 +15,14 @@ _Replace each "POE#" with the actual item you are including_
 ### L2: Artificial Life as a Field
 
 - [x] POE1
-- [ ] POE2
+- [x] POE2
 - [ ] POE3*
 
 ### L3: Computational Collaboration
 
 - [x] POE1
 - [x] POE2
-- [x] POE3*
+- [ ] POE3*
 
 ### L4: Failure
 
